@@ -73,10 +73,6 @@ A clean, intuitive website that feels professional yet personal — just like Vi
 
 ---
 
-## 🖼️ Screenshots:
-
----
-
 ## 📝 Notes:
 
 > The source code for this project is private and remains the property of Virtual Bloom.
